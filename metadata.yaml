@@ -1,0 +1,36 @@
+_repo: Nancy-Brandon_45497
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gooch, Thelma
+    gutenberg_agent_id: '32061'
+    url: http://www.gutenberg.org/2009/agents/32061
+covers:
+- cover_type: archival
+  image_path: 45497-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Garis, Lilian
+    aliases:
+    - Garis, Howard Roger, Mrs.
+    - Garis, Lilian C. McNamara
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '1754'
+    url: http://www.gutenberg.org/2009/agents/1754
+description: ''
+gutenberg_issued: '2014-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45497'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Business enterprises -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+title: Nancy Brandon
+url: http://www.gutenberg.org/ebooks/45497
